@@ -1,6 +1,9 @@
 # astro react antd初始化模版
 
-利用astro框架潜入react和antd组件库
+利用astro框架嵌入入react和antd组件库
+
+
+## 如何使用
 
 参考初始化工具degit
 
@@ -9,7 +12,9 @@ mkdir your-project-name
 cd your-project-name
 npx degit brandonxiang/astro-react-antd
 ```
-# or
+
+or
+
 ```shell
 npx degit brandonxiang/astro-react-antd your-project-name
 ```
